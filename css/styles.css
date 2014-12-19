@@ -1,0 +1,27 @@
+body {
+	font-family: 'Signika', sans-serif;
+	color: #F00; /* red */
+  font-weight: 100;
+}
+
+.text-thin{
+	font-weight: 100;
+}
+
+.text-bold{
+  font-weight: bolder;
+}
+
+.title-super{
+	font-size: 50px;
+}
+
+.grey-text{
+  color: #BBB; /* specifies grey text. the page default is red */
+}
+
+/* red border around images */
+.red-border{
+  border: 2px solid red !important;
+  padding: 10px; 
+}
